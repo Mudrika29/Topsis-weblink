@@ -10,3 +10,7 @@ Web app that generates the topsis score on your input .csv file.
 
 <h4>To create your own webapp</h4>
 Here I used flask to integrate the python file with my .html files. You can try Django also. Download the above folders and files in your pc and add your own .html files to style the frontend.
+<br>
+<h3> See how it looks like: </h3>
+<img src="https://github.com/Mudrika29/Topsis-weblink/assets/72308910/013a5bd5-149c-4942-8b53-087c238739e4" height= 500px width=700px align=center>
+
